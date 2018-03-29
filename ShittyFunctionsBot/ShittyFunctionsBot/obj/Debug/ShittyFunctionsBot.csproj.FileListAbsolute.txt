@@ -1,0 +1,11 @@
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.csprojResolveAssemblyReference.cache
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.Form1.resources
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.Properties.Resources.resources
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.csproj.GenerateResource.Cache
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.csproj.CoreCompileInputs.cache
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\bin\Debug\ShittyFunctionsBot.exe.config
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\bin\Debug\ShittyFunctionsBot.exe
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\bin\Debug\ShittyFunctionsBot.pdb
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.exe
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.pdb
+D:\Alles op D\School programeer dingen\Github\CoellieProductions\ShittyFunctionsBot\ShittyFunctionsBot\ShittyFunctionsBot\obj\Debug\ShittyFunctionsBot.RomanNumeralConverter.resources

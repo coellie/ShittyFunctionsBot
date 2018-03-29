@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
+using System.IO;
+using Microsoft.Win32.SafeHandles;
 
 namespace ShittyFunctionsBot
 {
@@ -15,6 +18,12 @@ namespace ShittyFunctionsBot
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnRomanConverter_Click(object sender, EventArgs e)
+        {
+            RomanNumeralConverter RomanNumeralConverter = new RomanNumeralConverter();
+            RomanNumeralConverter.Show();    
         }
     }
 }
